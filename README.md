@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# toy_app
+Learning from RoR tutorial
+>>>>>>> df6d35c1fd7da42f20e0da528980ae3ddd6f51dd
